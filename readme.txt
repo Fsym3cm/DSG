@@ -5,3 +5,4 @@ git remote add origin https://github.com/Fsym3cm/DSG.git
 git push -u origin master
 git remote add origin https://github.com/Fsym3cm/DSG.git
 git push -u origin master
+git status
